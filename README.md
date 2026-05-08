@@ -1,2 +1,2 @@
-![Banner](./resources/banner2.png)
+![banner-image](./resources/banner2.jpg)
 ## Hello! Welcome
