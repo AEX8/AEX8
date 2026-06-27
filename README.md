@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-I'm a developer focused on building **practical, scalable, and impactful applications**.  
+I'm a final year CS student and a developer focused on building **practical, scalable, and impactful applications**.  
 I enjoy working across the stack and solving real problems with clean, efficient solutions.
 
 - 🔭 Currently working on: **Full-stack + AI-powered applications**
