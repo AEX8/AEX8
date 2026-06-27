@@ -12,7 +12,7 @@ I enjoy working across the stack and solving real problems with clean, efficient
   
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 `C++` `Python` `JavaScript` `java`  
