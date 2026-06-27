@@ -1,14 +1,14 @@
 ![banner-image](./resources/banner2.2.jpg)
-## Hello! Welcome
+## Hello! 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a final year CS student and a developer focused on building **practical, scalable, and impactful applications**.  
+I'm a CS student at RMIT and a developer focused on building **practical, scalable, and impactful applications**.  
 I enjoy working across the stack and solving real problems with clean, efficient solutions.
 
-- 🔭 Currently working on: **Full-stack + AI-powered applications**
-- 🌱 Learning: **System design, cloud, and advanced backend architectures**
+- Currently working on: **Full-stack + AI-powered applications**
+- Learning: **System design, cloud, and advanced backend architectures**
   
 ---
 
