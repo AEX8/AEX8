@@ -33,4 +33,4 @@ I enjoy solving real problems end-to-end — from backend architecture to cloud 
 `Git` `REST APIs` `Alembic` `Swagger UI`
 
 **Socials:**\
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayath-wethmin-kaluwahewa-a4a7b82a3/)
+[![linkedin-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayath-wethmin-kaluwahewa-a4a7b82a3/)
