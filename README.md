@@ -1,4 +1,3 @@
-![banner-image](./resources/github_banner.png)
 ## Hello Welcome!
 
 ## About Me
@@ -34,3 +33,5 @@ I enjoy solving real problems end-to-end, from backend architecture to cloud dep
 
 **Socials:**\
 [![linkedin-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayath-wethmin-kaluwahewa-a4a7b82a3/)
+
+![banner-image](./resources/github_banner.png)
