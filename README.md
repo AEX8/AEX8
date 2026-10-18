@@ -1,11 +1,11 @@
 ![banner-image](./resources/wl-op-1.jpg)
-## Hello! 
----
+## Hello Welcome!
+
 ## About Me
-I'm a final-year Computer Science student at RMIT, about to graduate, and a developer focused on building **practical, scalable, and impactful applications** across the full stack.
-I enjoy solving real problems end-to-end — from backend architecture to cloud deployment to data pipelines.
+I'm a final-year Computer Science student at RMIT, about to graduate, and a developer focused on building practical, scalable, and impactful applications across the full stack.
+I enjoy solving real problems end-to-end, from backend architecture to cloud deployment to data pipelines.
 - Currently working on: **Data engineering pipelines (batch ETL/ELT + streaming with Kafka) and AI-powered intelligence platforms**
----
+  
 ## Tech Stack
  
 **Languages:**  
