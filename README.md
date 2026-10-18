@@ -1,4 +1,4 @@
-![banner-image](./resources/gayath_digital_observatory_v2.svg)
+![banner-image](./resources/github banner.png)
 ## Hello Welcome!
 
 ## About Me
