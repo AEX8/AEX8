@@ -1,4 +1,4 @@
-![banner-image](./resources/wl-op-1.jpg)
+![banner-image](./resources/gayath_digital_observatory_v2.svg)
 ## Hello Welcome!
 
 ## About Me
