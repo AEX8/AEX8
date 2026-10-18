@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="t d">
+<title id="t">The Digital Observatory</title>
+<desc id="d">A dark celestial observatory where a lone developer studies a holographic universe of software projects.</desc>
+<defs>
+ <radialGradient id="sky"><stop stop-color="#263455"/><stop offset=".55" stop-color="#10172a"/><stop offset="1" stop-color="#050812"/></radialGradient>
+ <radialGradient id="planet"><stop stop-color="#aebcff"/><stop offset=".45" stop-color="#50629c"/><stop offset="1" stop-color="#11182c"/></radialGradient>
+ <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#121725"/><stop offset="1" stop-color="#030407"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1600" height="560" fill="url(#sky)"/>
+
+<!-- stars -->
+<g fill="#dce4ff" opacity=".55">
+ <circle cx="110" cy="80" r="1"/><circle cx="190" cy="170" r="1.2"/><circle cx="330" cy="75" r="1"/><circle cx="480" cy="145" r="1.4"/>
+ <circle cx="610" cy="70" r="1"/><circle cx="760" cy="120" r="1"/><circle cx="910" cy="60" r="1.3"/><circle cx="1070" cy="120" r="1"/>
+ <circle cx="1210" cy="55" r="1"/><circle cx="1390" cy="135" r="1.4"/><circle cx="1510" cy="75" r="1"/>
+</g>
+
+
+<!-- celestial machinery -->
+<g transform="translate(880 210)" fill="none" stroke="#7182c4" opacity=".62">
+ <ellipse rx="185" ry="64" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="70s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="140" ry="140" stroke-width="1.5" stroke-dasharray="4 9"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="90s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="205" ry="100" transform="rotate(-28)" stroke-width="1"/>
+ <circle r="72" fill="url(#planet)" stroke="#8797d5" opacity=".8"/>
+ <path d="M-50 5Q0-20 48 7M-39 28Q4 8 42 30" stroke="#c2cbef" opacity=".3"/>
+</g>
+
+<!-- orbiting project constellations -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#b8c4ec">
+ <g><circle cx="1120" cy="112" r="4" fill="#8292e9"/><text x="1132" y="116">forge</text></g>
+ <g><circle cx="1205" cy="198" r="4" fill="#8292e9"/><text x="1217" y="202">parsify</text></g>
+ <g><circle cx="1110" cy="302" r="4" fill="#8292e9"/><text x="1122" y="306">clickstream-pipeline</text></g>
+ <g><circle cx="780" cy="76" r="4" fill="#8292e9"/><text x="635" y="80">IBM-AI-powered-consulting-game</text></g>
+ <g><circle cx="650" cy="215" r="4" fill="#8292e9"/><text x="490" y="219">ml-youtube-pipeline</text></g>
+ <g><circle cx="725" cy="330" r="4" fill="#8292e9"/><text x="647" y="350">kanbango</text></g>
+</g>
+
+<!-- floor -->
+<path d="M0 420H1600V560H0Z" fill="url(#floor)"/>
+<g stroke="#29304a" opacity=".6"><path d="M800 420L650 560M800 420L950 560M800 420L1150 560M800 420L450 560"/><path d="M0 480H1600M0 530H1600"/></g>
+
+<!-- telescope -->
+<g transform="translate(1175 345)" fill="#101522" stroke="#586487">
+ <path d="M0 0l125-55 15 32-126 55z"/><circle cx="137" cy="-39" r="25"/><path d="M54 18L25 120M82 8l44 112M67 14v106"/>
+</g>
+
+<!-- shadowy seated figure -->
+<g transform="translate(325 265) scale(1.08)">
+  <path d="M82 63c-18 4-34 22-38 46l-18 101h137l-25-104c-6-26-30-48-56-43z" fill="#080b14"/>
+  <circle cx="86" cy="45" r="27" fill="#0b0e18"/>
+  <path d="M62 39q20-38 50-6q-15-8-20 4q-10-13-30 2z" fill="#1d2740"/>
+  <path d="M51 110l-40 65 48 4 31-57z" fill="#080b14"/>
+  <path d="M119 108l48 65-44 5-35-55z" fill="#080b14"/>
+  <path d="M37 95Q-5 122-25 175Q15 151 58 150" fill="#0a0e19" opacity=".95"/>
+  <path d="M132 92Q178 121 202 165Q160 148 122 143" fill="#0a0e19" opacity=".9"/>
+  <rect x="58" y="122" width="65" height="39" rx="3" fill="#17213a" stroke="#8194d8"/>
+  <path d="M65 130h51v24H65z" fill="#0a0f1c"/>
+  <path d="M74 138h21m-21 7h34" stroke="#94a7ff" opacity=".78"/>
+  <ellipse cx="88" cy="211" rx="110" ry="14" fill="#000" opacity=".38"/>
+</g>
+
+<!-- title / terminal identity -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+ <text x="72" y="82" fill="#edf1ff" font-size="28" letter-spacing="8">GAYATH</text>
+ <text x="74" y="112" fill="#7f8aab" font-size="12" letter-spacing="4">COMPUTER SCIENCE // DIGITAL OBSERVATORY</text>
+ <path d="M74 132h310" stroke="#6675ad" opacity=".45"/>
+ <text x="74" y="160" fill="#7f8aab" font-size="13">$ observing systems...</text>
+ <rect x="245" y="149" width="7" height="13" fill="#8797e8"><animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/></rect>
+</g>
+
+<!-- drifting data particles -->
+<g fill="#8797ee" opacity=".65">
+ <circle cx="570" cy="360" r="2"><animate attributeName="cy" values="360;275;360" dur="8s" repeatCount="indefinite"/></circle>
+ <circle cx="1010" cy="360" r="2"><animate attributeName="cy" values="360;250;360" dur="10s" repeatCount="indefinite"/></circle>
+ <circle cx="1330" cy="335" r="1.5"><animate attributeName="cy" values="335;245;335" dur="7s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
