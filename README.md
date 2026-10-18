@@ -1,4 +1,4 @@
-![banner-image](./resources/github banner.png)
+![banner-image](./resources/github_banner.png)
 ## Hello Welcome!
 
 ## About Me
