@@ -1,8 +1,6 @@
 ![banner-image](./resources/git_banner.png)
 
-## Hello Welcome!
-
-## About Me
+## Hello!
 I'm a Computer Science student at RMIT, about to graduate, and a developer focused on building practical, scalable, and impactful applications across the full stack.
 I enjoy solving real problems, from backend architecture to cloud deployment to data pipelines.
 - Currently working on: **Data engineering pipelines (batch ETL/ELT + streaming with Kafka) and AI-powered intelligence platforms**
