@@ -1,5 +1,7 @@
 ![banner-image](./resources/git_banner.png)
 
+> **`Gayath • AEX8`**
+
 ## Hello!
 I'm a Computer Science student at RMIT, about to graduate, and a developer focused on building scalable, and impactful applications across the full stack.
 I enjoy solving problems, from backend architecture to cloud deployment to data pipelines.
