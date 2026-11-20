@@ -3,8 +3,8 @@
 ## Hello Welcome!
 
 ## About Me
-I'm a final-year Computer Science student at RMIT, about to graduate, and a developer focused on building practical, scalable, and impactful applications across the full stack.
-I enjoy solving real problems end-to-end, from backend architecture to cloud deployment to data pipelines.
+I'm a Computer Science student at RMIT, about to graduate, and a developer focused on building practical, scalable, and impactful applications across the full stack.
+I enjoy solving real problems, from backend architecture to cloud deployment to data pipelines.
 - Currently working on: **Data engineering pipelines (batch ETL/ELT + streaming with Kafka) and AI-powered intelligence platforms**
   
 ## Tech Stack
@@ -35,5 +35,5 @@ I enjoy solving real problems end-to-end, from backend architecture to cloud dep
 
 **Socials:**\
 [![linkedin-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayath-wethmin/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-gayath.dev-8aa6c8?style=for-the-badge&labelColor=0c0e12)](https://gayath.dev)
 
