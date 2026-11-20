@@ -1,4 +1,4 @@
-![banner-image](./resources/banner2.2.jpg)
+![banner-image](./resources/git_banner.png)
 
 ## Hello Welcome!
 
